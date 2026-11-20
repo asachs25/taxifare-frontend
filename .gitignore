@@ -11,3 +11,4 @@ wheels/
 .streamlit/secrets.toml
 .venv/
 __pycache__/
+.streamlit/secrets.toml
